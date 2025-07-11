@@ -7,7 +7,8 @@ SUAR (Sportello Unico Attività Ricettive del Comune di Roma)
 
 Airbnb
 
-OMI I dati sono stati estratti dal sito dell'Agenzia delle Entrate e riguardano il valore di mercato per vendita e locazione di oltre 30 zone di Roma, tra le più centrali e di valore. Il file è ampliabile con ulteriori zone per aggiornare i grafici in futuro. I dati includono: • Tipologia di abitazione (Civile, Economica, Signorile, Ville e Villini) • Valore minimo e massimo per locazione e vendita (€/mq) • Zona, Municipio, Via di Competenza, Anno (2014 o 2024), Semestre
+OMI 
+I dati sono stati estratti dal sito dell'Agenzia delle Entrate e riguardano il valore di mercato per vendita e locazione di oltre 30 zone di Roma, tra le più centrali e di valore. Il file è ampliabile con ulteriori zone per aggiornare i grafici in futuro. I dati includono: • Tipologia di abitazione (Civile, Economica, Signorile, Ville e Villini) • Valore minimo e massimo per locazione e vendita (€/mq) • Zona, Municipio, Via di Competenza, Anno (2014 o 2024), Semestre
 
 Analisi svolte:
 
@@ -32,6 +33,7 @@ Problematiche riscontrate: • Differenze nella metodologia di raccolta dati tra
 Analisi svolte:
 
 Mappe di Concentrazione delle Strutture Ricettive per Municipio (2014-2024) o 7 pagine identiche nella struttura, una per ogni anno/mese analizzato. o Mappa interattiva con confini dei Municipi (dati TopoJSON). o Grafico a barre per conteggio strutture per tipologia.
+
 Airbnb
 
 Dati estratti da Inside Airbnb, con focus su: • 2025 (marzo)
