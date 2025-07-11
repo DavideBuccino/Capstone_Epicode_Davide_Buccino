@@ -1,0 +1,31 @@
+Il file relativi al presente reporitory sono stati acquisiti e puliti come segue: 
+
+1) per le informazioni OMI è stato utilizzato lo script Python ESTRAZIONE_ROMA_residenziale.ipynb, dal quale è possibile effettuare uno web scraping "lieve" sul sito dell'agenzia dell'entrate;
+lo scrapingo consiste nel far aprire al codice diverse pagine WEB dal sito OMI e cliccare i menu a tendinda relativi alla scelta della provincia, del comune, delle zona, dell'anno e del semestre.
+Il codice è programmato per bloccarsi prima dell'inserimento dei codice captcha, i quali vanno necessariamente inseriti manualmente. 
+Il suddetto script permette di risparmiare centinaia se non migliaia di click, considerando la mole di zone di Roma, anni e semestri acquisiti;
+link: https://www1.agenziaentrate.gov.it/servizi/Consultazione/ricerca.htm?level=0 
+
+2) per la raccolta dati sull'inflazione mi sono affidato al sito di ISTAT ed EUROSTAT;
+
+3) per l'acquisizione dei dati del SUAR, sono accessibili dal sito del Comune di Roma;
+link: https://dati.comune.roma.it/catalog/dataset/d823
+
+4) per i dati di Airbnb, sono accessibili al seguente link, esclusi dati storici, i quali sono su richiesta e a pagamento;
+link: https://insideairbnb.com/get-the-data/ 
+
+5) Inoltre per acquisire la colonna Municipio per alcuni dei file SUAR (quelli che ne erano sprovisti), ho scaricato delle tabelle stradario da contratti AMA, complete di tutti gli indirizzi di roma per via e civici,
+le quali mi hanno permesso di effettuare dei merge con la colonna indirizzo e acquisirne il Municipio.
+
+6) la mappa con i confini geografici (poligoni geometrici) definiti per ogni Municipio di Roma è stata acquisita dal sito opendata comune di Roma oppure DatiOpen;
+link: http://www.datiopen.it/
+link: https://dati.comune.roma.it/
+
+
+Per la pulizia dei dataset mi sono affidato in un primo momento ad excel, così da avere una panoramica dei dati ottenuti. In seguito mi sono servito anche di Python, per pulire alcune cose e ad esempio per concatenare
+mole di dati importanti. Successivamente ho preferito concludere la pulizia dei vari datesat direttamente tramite Power Query (anche con parziale utilizzo di m) e Power BI (con utilizzo di DAX per pulire 
+ma anche per generare colonne calcolate e misure)
+
+In fase di report Power BI mi sono servito di oggetti visivi inclusi nel softwer di base (Power BI Desktop) ma anche di oggetti visivi generati con Python (per i grafici non presenti tra quelli disponibili)
+e anche di visual esterni come ImageViewerv1.0.754; Timeline.Timeline1447991079100.2.4.0.0; ParaHTMLViewer;
+
