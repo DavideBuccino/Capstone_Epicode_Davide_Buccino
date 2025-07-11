@@ -1,7 +1,9 @@
 # Capstone_Epicode_Davide_Buccino
 Roma 2014-2024: mercato immobiliare e strutture ricettive tra crisi e inflazione + focus Airbnb 2025
 Analisi del Mercato Immobiliare di Roma
+
 AIRBNB
+
 La mia analisi si conclude con la sessione relativa ad Airbnb, dove i dati sono stati presi dal sito che Airbnb al link: https://insideairbnb.com/get-the-data/ mette a disposizione e che si chiama Inside Airbnb. Da questo sito ho potuto prendere i dati relativi al 2024 e al 2025, nel dettaglio, tabelle per i mesi di settembre 2024 e dicembre 2024 e per il mese di marzo 2025. Non ho avuto modo di ottenere i dati storici e archiviati che Airbnb mette a disposizione solo su esplicita richiesta e a pagamento.
 Pertanto, non avendo dati comparabili nel tempo (negli anni) se non per i tre periodi sopra citati, i quali comunque riportavano informazioni molto simili se non uguali in molti casi, sia per numero di recensioni, prezzo a notte e numero strutture, ho preferito soffermarmi solo sull'ultima tabella, quella più recente al 05-03-2025.
 L'approfondimento per questo argomento si divide in 7 analisi relative a:
