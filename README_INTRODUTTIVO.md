@@ -8,6 +8,7 @@ SUAR (Sportello Unico Attività Ricettive del Comune di Roma)
 Airbnb
 
 OMI 
+
 I dati sono stati estratti dal sito dell'Agenzia delle Entrate e riguardano il valore di mercato per vendita e locazione di oltre 30 zone di Roma, tra le più centrali e di valore. Il file è ampliabile con ulteriori zone per aggiornare i grafici in futuro. I dati includono: • Tipologia di abitazione (Civile, Economica, Signorile, Ville e Villini) • Valore minimo e massimo per locazione e vendita (€/mq) • Zona, Municipio, Via di Competenza, Anno (2014 o 2024), Semestre
 
 Analisi svolte:
